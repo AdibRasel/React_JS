@@ -1,0 +1,104 @@
+
+
+.main_section{
+    background: url(../image/React_bg.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main_menu{
+    background-color: #ffffff00;
+}
+
+
+.main_box{
+    width: 95%;
+    /* normali height deoya holo  */
+    height: 500px;
+    margin: auto;
+    box-sizing: border-box;
+    /* border: 2px solid #444; */
+    box-shadow: 0px 0px 15px 5px #444;
+    background-color: #ffffffed;
+}
+
+
+.icon{
+    width: 100px;
+    /* border: 2px solid #444; */
+    padding: 8px;
+    box-shadow: 0px 0px 15px 2px #000;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: black;
+}
+.icon:hover{
+    background-color: rgb(22, 22, 22);
+    width: 101px;
+}
+
+
+
+
+
+/* main contant  */
+.main_contant{
+    width: 95%;
+    margin: auto;
+}
+
+
+.title_page{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.title_page li{
+    list-style: square;
+    margin-bottom: 30px;
+}
+.title_page li a{
+    background-color: rgb(0 123 255 / 36%);
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+}
+.title_page li a:hover{
+    background-color: #00000087;
+    color:white;
+    padding: 12px;
+}
+
+
+
+
+
+/* end main contant  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    width: 95%;
+    /* normali height deoya holo  */
+    /* height: 500px; */
+    margin: auto;
+    box-sizing: border-box;
+    /* border: 2px solid #444; */
+    box-shadow: 0px 0px 15px 5px #444;
+    background-color: #0000009c;
+}
